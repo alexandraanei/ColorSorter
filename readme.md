@@ -1,7 +1,7 @@
 # ColorSorter
 
 ### Gameplay:
-https://drive.google.com/file/d/141sDuH-wEj8x6J0Duy16ufoNHuEKcPrF/view
+https://drive.google.com/file/d/1cVe0R255UFYNdSIzgYmo9JvgkoD5NInT/view?usp=sharing
 
 ## **ABOUT**
 Initially, the colored M&M's which are held in the charger drop into the platform attached on the top servo motor.
@@ -17,10 +17,10 @@ Next, I inserted a switch and a power jack for powering the Arduino with a 5V ad
 
 
 ## **COMPONENTS**:
-- 1 small breadboard 
+- 1 Small breadboard 
 - 1 Arduino Nano
-- 1 serial cable
-- 2 Servo Motor
+- 1 Serial cable
+- 2 Servo Motors
 - 1 Color Sensor
 - 1 Switch
 - 1 Power Jack
